@@ -1,0 +1,110 @@
+﻿/* Reset default margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set a background color and basic font styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Center align all headings */
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.8em;
+}
+
+/* Add a horizontal line to separate sections */
+hr {
+    border: 0;
+    border-top: 2px solid #ddd;
+    margin: 20px 0;
+}
+
+/* Section headings style */
+h3 {
+    font-size: 1.6em;
+    margin-top: 20px;
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* Styling for the <pre> tags to make them look more structured */
+pre {
+    background-color: #fafafa;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    white-space: pre-wrap; /* Ensures long lines break to fit the container */
+    word-wrap: break-word;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    font-size: 1em;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+td {
+    background-color: #fafafa;
+}
+
+/* Ensure that all text within the table is centered */
+td, th {
+    text-align: center;
+}
+
+/* Add some padding to the body */
+body {
+    padding: 20px;
+}
+
+/* Media Query for responsive design */
+@media (max-width: 768px) {
+    h1, h2 {
+        font-size: 1.8em;
+    }
+
+    h3 {
+        font-size: 1.4em;
+    }
+
+    table, pre {
+        padding: 5px;
+    }
+
+    th, td {
+        font-size: 0.9em;
+    }
+}
