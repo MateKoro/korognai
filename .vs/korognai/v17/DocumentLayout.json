@@ -18,11 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e9d26e9f-2060-4aa2-bec3-2a9e07c66900}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "styles.css",
               "ToolTip": "C:\\Users\\megon\\source\\repos\\korognai\\styles.css",
               "RelativeToolTip": "styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-02T01:43:42.514Z",
               "EditorCaption": ""
@@ -49,7 +57,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\megon\\source\\repos\\korognai\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-28T16:05:39.33Z",
               "EditorCaption": ""
